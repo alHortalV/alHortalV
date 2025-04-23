@@ -4,7 +4,7 @@
 
 <p align="center">
   💻 Desarrollador Web en prácticas en <strong>Ubunet Telecom S.L</strong><br>
-  📚 Estudiante de DAM apasionado por la tecnología y el desarrollo<br>
+  📚 Estudiante de DAM apasionado por la tecnología y el desarrollo web<br>
   🌱 Aprendiendo React con Vite + Tailwind<br>
 </p>
 
@@ -16,20 +16,22 @@ Actualmente estoy realizando mis **prácticas del Grado Superior en Desarrollo d
 
 ### 🛠 Proyectos recientes:
 
-- 🔐 **Aplicación para detectar teléfonos en la lista Robinson**  
-  Conexión a una base de datos vía **SSH** para extraer grupos **CID** de usuarios y empresas, listando aquellos que están registrados en la lista Robinson.
+#### 📵 Robinson List
 
-- 📊 **Contact Center Dashboard**  
-  Web que consume una **API** para mostrar estadísticas en tiempo real como:
+> Aplicación para gestionar usuarios y detectar números en la **Lista Robinson**, conectando a una base de datos remota a través de túnel SSH.
+
+- 🔐 Roles: `superadmin`, `admin`, `user`
+- 🌐 Backend en **Node.js**
+- ⚡ Fetch de datos desde **base de datos SQL** y **Redis**
+- 🔄 Rotado de CLI para mantener subscripciones, grupos CID y tareas administrativas
+- 📜 Listado actualizado de números de la Lista Robinson desde Redis
+
+#### 📊 Contact Center Dashboard
+
+- Conexión a una **API** para mostrar estadísticas en tiempo real como:
   - Número total de llamadas 📞  
   - Tasa de atención 📈  
-  - Gráficas con llamadas perdidas según la franja horaria 📉  
-
-### 💡 Actualmente aprendiendo:
-
-- ⚛️ **React** con **Vite**
-- 🎨 **Tailwind CSS** para una maquetación moderna y responsiva
-- 🛠️ Mejores prácticas de desarrollo frontend/backend
+  - Gráficas por franja horaria 📉  
 
 ---
 
@@ -58,6 +60,8 @@ Actualmente estoy realizando mis **prácticas del Grado Superior en Desarrollo d
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alHortalV&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alHortalV&theme=radical" alt="Racha de GitHub">
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alHortalV&layout=compact&theme=radical" alt="Lenguajes más usados">
 </p>
