@@ -51,3 +51,13 @@ Actualmente estoy realizando mis **prácticas del Grado Superior en Desarrollo d
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,html,css,java,kotlin,dart,nodejs,react,react-native,vite,tailwind,mysql,mongodb,postgres,firebase,mariadb,hibernate,maven,jwt" />
 </p>
+
+---
+
+## 📈 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alHortalV&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alHortalV&layout=compact&theme=radical" alt="Lenguajes más usados">
+</p>
